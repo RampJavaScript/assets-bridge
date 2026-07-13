@@ -1,2 +1,0 @@
-# assets-bridge
-assets bridge
